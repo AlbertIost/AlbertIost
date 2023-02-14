@@ -1,4 +1,10 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/51286995/218781429-616f7dbf-2a5d-41cb-ab55-27d3f33e63a7.png)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AlbertIost)](https://github.com/AlbertIost/github-profile-trophy) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Albertiost"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=albertiost&theme=solarized_dark"/>
+</p>
 
 <!--
 **AlbertIost/AlbertIost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
